@@ -20,3 +20,10 @@ D-            -> D- (pin 2)
 D+            -> D+ (pin 3)
 GND           -> GND (pin 4 or any other GND point on the module)
 ```
+other similar projects and references
+here:
+https://www.electromaker.io/project/view/xbox-360-rf-module-controlled-with-an-arduino-1?srsltid=AfmBOoqaIvXYYNZ5GorwITz8wOPjD5kLdt7DVYkYCu3CwfoVeJucyNF2
+
+and here:
+https://agarmash.com/posts/xbox-360-controller-receiver/
+
