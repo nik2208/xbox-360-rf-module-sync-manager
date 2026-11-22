@@ -25,7 +25,8 @@ It is based on the original work [archived here](https://web.archive.org/web/201
 ## References
 - [Xbox 360 RF Module controlled with Arduino](https://www.electromaker.io/project/view/xbox-360-rf-module-controlled-with-an-arduino-1?srsltid=AfmBOoqaIvXYYNZ5GorwITz8wOPjD5kLdt7DVYkYCu3CwfoVeJucyNF2)  
 - [Xbox 360 Controller Receiver Project](https://agarmash.com/posts/xbox-360-controller-receiver/)  
-- [Homemade Xbox 360 wireless receiver (Se7enSins forum)](https://www.se7ensins.com/forums/threads/how-to-make-a-homemade-xbox-360-controller-wireless-receiver-for-pc.668839/)  
+- [Homemade Xbox 360 wireless receiver (Se7enSins forum)](https://www.se7ensins.com/forums/threads/how-to-make-a-homemade-xbox-360-controller-wireless-receiver-for-pc.668839/)
+- [DIY Xbox 360 Wireless Receiver](https://microknot.dev/electronics/diy-xbox-360-wireless-receiver)
 
 ## Thanks to Dalca
 https://www.youtube.com/watch?v=YBUgx-Oq2LY
